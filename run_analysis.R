@@ -1,3 +1,5 @@
+rm(list = ls())
+setwd(choose.dir())
 library(plyr)
 library(data.table)
 
